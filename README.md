@@ -1,6 +1,6 @@
 # Declaración de Amor - Proyecto del 14 de Febrero 💘
 
-¡Bienvenido/a a mi proyecto de declaración de amor para el 14 de Febrero! En este proyecto, estoy creando una declaración de amor especial para esa persona especial en mi vida. Este README te dará una visión general del proyecto y cómo puedes contribuir o usarlo.
+¡Bienvenido/a a mi proyecto de declaración de amor para el 14 de Febrero! En este proyecto, estoy creando una declaración de amor especial para esa persona especial. Este README te dará una visión general del proyecto y cómo puedes contribuir o usarlo.
 
 ## Descripción
 
